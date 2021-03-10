@@ -1,6 +1,6 @@
 import java.util.Arrays;
 public class HomeWork2 {
-
+//йцу
     public static void main(String[] args) {
 
 
